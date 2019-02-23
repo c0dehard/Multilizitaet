@@ -7,7 +7,7 @@ package multilizitaet;
 
 public class Restaurant {
 
-	//Attribute
+    //Attribute
     public int counter;
     public String name;
     public Gast[] besucher;
