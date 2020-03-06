@@ -1,5 +1,5 @@
 
-package multilizitaet;
+package Multiplizitaet;
 
 /**
  * @author c0dehard
